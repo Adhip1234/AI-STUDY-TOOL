@@ -1,0 +1,72 @@
+{    
+
+  "1": {
+    "element_name": "Cl",
+    "barcode_value": 5,
+    "number_of_electron": 7      
+  },
+  "2": {
+    "element_name": "F",
+    "barcode_value": 4,
+    "number_of_electron": 7
+  },
+  "3": {
+    "element_name": "I",
+    "barcode_value": 7,
+    "number_of_electron": 53
+  },
+  "4": {
+    "element_name": "Br",
+    "barcode_value": 6,
+    "number_of_electron": 35
+  },
+
+
+  "5": {
+    "element_name": "Na",
+    "barcode_value": 2,
+    "number_of_electron": 1
+  },
+  "6": {
+    "element_name": "K",
+    "barcode_value": 3,
+    "number_of_electron": 19
+  },
+  "7": {
+    "element_name": "Li",
+    "barcode_value": 1,
+    "number_of_electron": 3
+
+  },
+  "8": {
+    "element_name": "H",
+    "barcode_value": 0,
+    "number_of_electron": 1
+  },
+
+
+
+  "9": {
+    "element_name": "O",
+    "barcode_value": 8,
+    "number_of_electron": 8
+  },
+
+  "10": {
+    "element_name": "S",
+    "barcode_value": 9,
+    "number_of_electron": 16
+  },
+  "11": {
+    "element_name": "Se",
+    "barcode_value": 10,
+    "number_of_electron": 34
+  },
+  "12": {
+    "element_name": "H",
+    "barcode_value": 11,
+    "number_of_electron": 1
+  }
+  
+}
+
